@@ -1,0 +1,12 @@
+.image-div{
+    background-image: url(https://avatars.mds.yandex.net/i?id=1db9a6ee768ce3777b0c0c1a836f2e91_l-5088288-images-thumbs&n=13);
+    background-clip: border-box;
+    width: 300px;
+    height: 300px;
+    border: 10px solid rgba(0,0,0,0.2);
+    padding: 30px;
+    background-size: cover;
+    transform: rotate(45deg);
+    filter: blur(0.5);
+    filter:brightness(150%);
+}
